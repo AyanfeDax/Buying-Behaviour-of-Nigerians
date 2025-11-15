@@ -63,3 +63,6 @@ A dynamic Excel dashboard visualizing:
 - Platform ranking  
 - Influencer ranking  
 - Product categories
+
+<img width="4067" height="1824" alt="Buying Behaviour of Nigerians" src="https://github.com/user-attachments/assets/d595a821-a7de-4ada-a601-a1f68ea80ae5" />
+
