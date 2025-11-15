@@ -54,6 +54,7 @@ Performed using Excel Pivot Tables:
 - Distribution analysis  
 - Trend and pattern identification  
 - Cross-tab relationships (eg. income vs payment method)
+<a href="https://github.com/AyanfeDax/Buying-Behaviour-of-Nigerians/blob/main/Buying%20Behaviour%20of%20Nigerians%20(Analysis).xlsx">Dataset and Analysis</a>
 
 ### 5. *Dashboard Development*
 A dynamic Excel dashboard visualizing:
